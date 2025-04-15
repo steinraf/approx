@@ -1,0 +1,8 @@
+[package]
+name = "approx"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = "0.25.6"
+show-image = "0.14.1"
